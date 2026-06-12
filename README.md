@@ -1,3 +1,3 @@
 # my-demo
 This is my first Git Repository.
-Author-Nikit Mahto
+Author-Nikita Mahto
